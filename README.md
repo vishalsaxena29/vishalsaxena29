@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vishal saxena
-- 👀 I’m interested in software developing and software designing and Testing simultanously. 
+- 👀 I’m interested in software developing,software designing and Testing simultanously. 
 - 🌱 I’m currently learning Data Science along with the devops and Cloud Computing,
 - 📫 You can reach me through saxena.vishal204@gmail.com
 
