@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vishal saxena
 - 👀 I’m interested in software developing,software designing and Testing simultanously. 
-- 🌱 I’m currently learning Data Science along with the devops and Cloud Computing,
+- 🌱 I’m currently learning and working on Java , Spring Boot and Data Science along with the devops and Cloud Computing codes and Projects.
 - 📫 You can reach me through saxena.vishal204@gmail.com
 
 <!---
