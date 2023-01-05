@@ -1,6 +1,7 @@
 - 👋 Hi, I’m vishal saxena
-- 👀 I’m interested in software developing,software designing and deployment simultanously. 
-- 🌱 I’m currently learning and working with the help of Java , Spring Boot and doing hands on pactice on devops tools and Cloud Computing Projects.
+
+As a software developer with experience as a configuration and deployment engineer, I have a strong background in Devops tools and am familiar with a range of operating systems and cloud technologies. I am skilled at automating the deployment and management of applications, and have a keen eye for identifying and implementing improvements to development and delivery processes. In addition to my technical skills, I am a strong communicator and enjoy working with cross-functional teams to deliver high-quality software. I am always looking to learn and grow, and am excited to take on new challenges in the field of software development and Devops.
+
 - 📫 You can reach me through saxena.vishal204@gmail.com
 
 <!---
