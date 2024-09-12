@@ -7,6 +7,7 @@ Docker <img src="https://github.com/user-attachments/assets/4c1d7de9-c3a7-480c-b
 Terraform <img src="https://github.com/user-attachments/assets/a792d7ea-dfca-46f9-8e4f-c44d10af054c" width="100">
 Jenkins   <img src="https://github.com/user-attachments/assets/898e1703-b282-49e4-ab3a-005bcbf92224" width="100">
 AWS Cloud  <img src="https://github.com/user-attachments/assets/73821b70-b255-4898-9b54-b9ce1b28020d" width="100">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
