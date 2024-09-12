@@ -5,8 +5,8 @@ As a Devops and Cloud Engineer with experience as a configuration and deployment
 Kubernetes  <img src="https://github.com/user-attachments/assets/95ba7eaf-3b6e-4e17-b5e8-aa4a498fe836" width="100"></n>
 Docker <img src="https://github.com/user-attachments/assets/4c1d7de9-c3a7-480c-b532-740465e3e030" width="100">
 Terraform <img src="https://github.com/user-attachments/assets/a792d7ea-dfca-46f9-8e4f-c44d10af054c" width="100">
-Jenkins   <img src="https://github.com/user-attachments/assets/898e1703-b282-49e4-ab3a-005bcbf92224" width="100">
-AWS Cloud  <img src="https://github.com/user-attachments/assets/73821b70-b255-4898-9b54-b9ce1b28020d" width="100">
+Jenkins   <img src="https://github.com/user-attachments/assets/898e1703-b282-49e4-ab3a-005bcbf92224" width="100"></n>
+AWS Cloud  <img src="https://github.com/user-attachments/assets/73821b70-b255-4898-9b54-b9ce1b28020d" width="100"></n>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
